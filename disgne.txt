@@ -1,0 +1,11 @@
+Rectangle 
+bourdure
+grille de repitition
+fonde de bourdure
+les ligne
+texte : gras-italik-barru- miniscule
+majuscule-
+augmenté la taille de la police
+dispositon en arriére - en avant 
+colour de texte:#FFFFFF-#000000
+colourdes bourdure:#7B6B6B-#090808-#14EEF5
